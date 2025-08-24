@@ -1,4 +1,4 @@
-<H3> Name : GANJI MUNI MDHURI </H3>
+<H3> Name : GANJI MUNI MADHURI </H3>
 <H3>Register No. : 212223230060</H3>
 <H3> Experiment 1</H3>
 <H3>DATE: 24/08/2025</H3>
