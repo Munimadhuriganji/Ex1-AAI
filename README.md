@@ -211,10 +211,8 @@ query_with_evidence('W', '>50')
 ```
 
 ## Output:
-
-<img width="1137" height="597" alt="image" src="https://github.com/user-attachments/assets/5b67b116-96b9-4ca5-8ea2-8712000d99e5" />
-<img width="1377" height="335" alt="image" src="https://github.com/user-attachments/assets/466d4349-92c4-499f-a789-bb40f6c7d019" />
-
+![Uploading Screenshot 2025-08-24 145204.png…]()
+<img width="1206" height="296" alt="image" src="https://github.com/user-attachments/assets/57474d31-78c4-450e-b76b-b1b31c296849" />
 ## Result:
-   Thus a Bayesian Network is generated using Python
+Thus a Bayesian Network is generated using Python
 
